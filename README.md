@@ -45,7 +45,7 @@ hAxB = -(((pA1B1)*math.log(pDung) + (pA1B2)*math.log(pSai))+((pA2B2)*math.log(pD
 print('H(A/B)',hAxB)
 
 
-
+## Cơ số 10
 
 
 ```
