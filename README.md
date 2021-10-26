@@ -1,6 +1,6 @@
 # CSLTTT_KMA
 
-
+```python
 import math
 
 pa1 = 0.25
@@ -27,5 +27,5 @@ print('I(a2b1)',-math.log10((pa2/pSai)))
 
 
 
-
+```
 
